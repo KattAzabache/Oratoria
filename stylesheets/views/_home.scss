@@ -66,7 +66,13 @@
   width: 100%;
   /*background:transparent url(../img/triangle.png) repeat 3px 50%;
   background-image: linear-gradient(to right bottom, rgba(41, 36, 132, 0.85098), rgba(102, 245, 201, 0.85098));*/
-  background-color: white;
-  padding: 5%;
-
+  background-color: rgba(137, 153, 177, 0.05);
+  padding: 7%  5% !important;
+  .logo {
+      font-family: 'Poiret One', 'sans-serif';
+      font-size: 53px;
+      color: #009AF5;
+      padding-bottom: 2%;
+      margin: 0;
+  }
 }
