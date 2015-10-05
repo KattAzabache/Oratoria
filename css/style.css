@@ -38,7 +38,6 @@
           background-color: black;
             li h4{
              color: white !important;
-             font-family: 'Oswald', sans-serif;
              margin: 0;
              font-size: 15px;
            }
@@ -46,16 +45,16 @@
      }
    }  
  }
-.navbar {
+/*.navbar {
     border-radius: 0 !important;
     border: 0 solid transparent !important;
     margin-bottom: 0 !important; 
     background-color: rgba(24, 122, 179, 0.83) !important;
     z-index: 100000;
-} 
+} */
 .about{
   height: 100%;
   width: 100%;
-  /*background:transparent url(../img/triangle.png) repeat 3px 50%;*/
-  background-color: rgb(33, 62, 115);
+  /*background:transparent url(../img/triangle.png) repeat 3px 50%;
+  background-color: rgb(33, 62, 115);*/
 }

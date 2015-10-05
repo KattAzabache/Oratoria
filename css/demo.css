@@ -43,7 +43,7 @@ section {
 	top: 50%;
 	left: 50%;
 	text-align: center;
-	max-width: 600px;
+	width: 100%;
 	-webkit-transform: translate(-50%,-50%);
 	transform: translate(-50%,-50%);
 	-webkit-backface-visibility: hidden;
@@ -54,9 +54,12 @@ section {
     margin: 0;
     font-size: 5em;
     line-height: 1;
-    color: rgba(213, 255, 85, 0.97);
+    color: white;
     font-weight: 800;
     text-shadow: 6px 3px 0px rgba(8, 8, 8, 0.85);
+    font-family: 'Alegreya', serif;
+    font-family: 'Poiret One', 'sans-serif';
+
 }
 
 .codrops-header h1 span {
